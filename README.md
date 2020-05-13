@@ -1,0 +1,2 @@
+# Electrical-Energy-Generation-Consumption-and-Price-Forecasting-with-Long-Short-Term-Memory
+In this work Electrical Energy Demand and Energy Prices are forecasted using Long Short-Term Memory. The dataset contains 4 years of electrical consumption, generation, pricing for Spain. Consumption and generation data was retrieved from ENTSOE a public portal for Transmission Service Operator (TSO) data. 
